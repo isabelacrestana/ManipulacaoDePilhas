@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include "bibliotecaAula4.h"
+#include "extraLibrary.h"
 
 int main()
 {
